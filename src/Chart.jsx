@@ -137,7 +137,7 @@ export default function Chart() {
                 <div className="flex flex-row justify-center items-center">
                   <div>
                   Demography{" "}
-                  </div>
+                  </div> 
                   <div
                     onClick={() => arrowwisesorting("age")}
                     className="flex align-middle justify-center"
